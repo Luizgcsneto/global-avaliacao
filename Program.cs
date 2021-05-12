@@ -6,7 +6,7 @@ namespace avaliacao_global
     {
         static void Main(string[] args)
         {
-
+            // 1 a 10
             int numeroUM = 10, i = 10;
             while (i != 1)
             {
