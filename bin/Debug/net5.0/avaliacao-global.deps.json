@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "avaliacao-global/1.0.0": {
+        "runtime": {
+          "avaliacao-global.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "avaliacao-global/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

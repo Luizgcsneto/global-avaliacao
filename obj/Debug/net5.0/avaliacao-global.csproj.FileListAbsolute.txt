@@ -1,0 +1,16 @@
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\bin\Debug\net5.0\avaliacao-global.exe
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\bin\Debug\net5.0\avaliacao-global.deps.json
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\bin\Debug\net5.0\avaliacao-global.runtimeconfig.json
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\bin\Debug\net5.0\avaliacao-global.runtimeconfig.dev.json
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\bin\Debug\net5.0\avaliacao-global.dll
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\bin\Debug\net5.0\ref\avaliacao-global.dll
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\bin\Debug\net5.0\avaliacao-global.pdb
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.csprojAssemblyReference.cache
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.AssemblyInfoInputs.cache
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.AssemblyInfo.cs
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.csproj.CoreCompileInputs.cache
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.dll
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\ref\avaliacao-global.dll
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.pdb
+C:\Users\Luiz  Neto\Desktop\projetos\avaliacao-global\avaliacao-global\obj\Debug\net5.0\avaliacao-global.genruntimeconfig.cache
